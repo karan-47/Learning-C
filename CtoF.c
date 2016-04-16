@@ -2,7 +2,7 @@
 
 #include <stdlib.h>
 
-
+/* Adding C program for converting celcius to degree */
 int main(void)
 
 {
